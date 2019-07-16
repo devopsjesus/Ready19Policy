@@ -1,7 +1,7 @@
 name: $(Build.DefinitionName)-$(SourceBranchName)-$(Date:yyyyMMdd).$(Rev:rr)
 
 variables:
-  RepoName: {your-repo-name}
+  RepoName: Ready19Policy
   FolderPath: Parameters #change it you didn't follow our suggested path
   ArtifactName: parameters
 
